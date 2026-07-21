@@ -68,6 +68,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Door Booleans.vi" Type="VI" URL="../Door Booleans.vi"/>
 		<Item Name="Door Booleans2.vi" Type="VI" URL="../Door Booleans2.vi"/>
+		<Item Name="Hello GDEVCON!.vi" Type="VI" URL="../Hello GDEVCON!.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
