@@ -1,0 +1,25 @@
+Material Theme Builder:
+https://material-foundation.github.io/material-theme-builder/
+
+
+LabVIEW Logo Link:
+https://mlegimnpy7qi.i.optimole.com/w:712/h:473/q:mauto/g:sm/f:best/ig:avif/https://www.softwarekey.com/wp-content/uploads/2015/05/labview-logo.png
+
+Stock Image Link:
+https://png.pngtree.com/background/20250104/original/pngtree-free-background-images-stock-photos-to-download-pictures-picture-image_15487634.jpg
+
+GDEVCON Colors:
+#77C0DB (light blue) primary
+#B31942 (red) secondary
+#0B3161 (dark blue) tertiary
+
+Google Fonts:
+https://fonts.google.com/icons
+
+https://danielcoons.github.io/danielcoons/
+
+Icon names:
+local_fire_department
+propane_tank
+bolt
+sports_martial_arts
