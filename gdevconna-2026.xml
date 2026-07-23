@@ -1,0 +1,2033 @@
+<Object>
+<Name>material theme</Name>
+<NumLevels>1</NumLevels>
+<Class>TSC Material Theme.lvlib:Material Theme.lvclass</Class>
+<Version>3.0.0.0</Version>
+<Cluster>
+<Name>Material Theme.lvclass</Name>
+<NumElts>6</NumElts>
+<String>
+<Name>description</Name>
+<Val>TYPE: CUSTOM
+Material Theme Builder export 2026-07-23 02:16:43</Val>
+</String>
+<U32>
+<Name>seed</Name>
+<Val>7848155</Val>
+</U32>
+<Cluster>
+<Name>coreColors</Name>
+<NumElts>4</NumElts>
+<U32>
+<Name>primary</Name>
+<Val>7848155</Val>
+</U32>
+<U32>
+<Name>secondary</Name>
+<Val>11737410</Val>
+</U32>
+<U32>
+<Name>tertiary</Name>
+<Val>733537</Val>
+</U32>
+<U32>
+<Name>error</Name>
+<Val>0</Val>
+</U32>
+</Cluster>
+<Array>
+<Name>Schemes</Name>
+<Dimsize>6</Dimsize>
+<Object>
+<Name>Material-Scheme.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>TSC Material Theme.lvlib:Material-Scheme.lvclass</Class>
+<Version>3.0.0.0</Version>
+<Cluster>
+<Name>Material-Scheme.lvclass</Name>
+<NumElts>51</NumElts>
+<String>
+<Name>name</Name>
+<Val>light</Val>
+</String>
+<U32>
+<Name>primary</Name>
+<Val>550783</Val>
+</U32>
+<U32>
+<Name>surfaceTint</Name>
+<Val>550783</Val>
+</U32>
+<U32>
+<Name>onPrimary</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>primaryContainer</Name>
+<Val>12053247</Val>
+</U32>
+<U32>
+<Name>onPrimaryContainer</Name>
+<Val>19809</Val>
+</U32>
+<U32>
+<Name>secondary</Name>
+<Val>9390418</Val>
+</U32>
+<U32>
+<Name>onSecondary</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>secondaryContainer</Name>
+<Val>16767452</Val>
+</U32>
+<U32>
+<Name>onSecondaryContainer</Name>
+<Val>7484220</Val>
+</U32>
+<U32>
+<Name>tertiary</Name>
+<Val>4284305</Val>
+</U32>
+<U32>
+<Name>onTertiary</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>tertiaryContainer</Name>
+<Val>14083071</Val>
+</U32>
+<U32>
+<Name>onTertiaryContainer</Name>
+<Val>2574199</Val>
+</U32>
+<U32>
+<Name>error</Name>
+<Val>12196378</Val>
+</U32>
+<U32>
+<Name>onError</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>errorContainer</Name>
+<Val>16767702</Val>
+</U32>
+<U32>
+<Name>onErrorContainer</Name>
+<Val>9633802</Val>
+</U32>
+<U32>
+<Name>background</Name>
+<Val>16120573</Val>
+</U32>
+<U32>
+<Name>onBackground</Name>
+<Val>1514527</Val>
+</U32>
+<U32>
+<Name>surface</Name>
+<Val>16120573</Val>
+</U32>
+<U32>
+<Name>onSurface</Name>
+<Val>1514527</Val>
+</U32>
+<U32>
+<Name>surfaceVariant</Name>
+<Val>14410984</Val>
+</U32>
+<U32>
+<Name>onSurfaceVariant</Name>
+<Val>4212812</Val>
+</U32>
+<U32>
+<Name>outline</Name>
+<Val>7370876</Val>
+</U32>
+<U32>
+<Name>outlineVariant</Name>
+<Val>12568780</Val>
+</U32>
+<U32>
+<Name>shadow</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>scrim</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>inverseSurface</Name>
+<Val>2896180</Val>
+</U32>
+<U32>
+<Name>inverseOnSurface</Name>
+<Val>15593972</Val>
+</U32>
+<U32>
+<Name>inversePrimary</Name>
+<Val>8966636</Val>
+</U32>
+<U32>
+<Name>primaryFixed</Name>
+<Val>12053247</Val>
+</U32>
+<U32>
+<Name>onPrimaryFixed</Name>
+<Val>7976</Val>
+</U32>
+<U32>
+<Name>primaryFixedDim</Name>
+<Val>8966636</Val>
+</U32>
+<U32>
+<Name>onPrimaryFixedVariant</Name>
+<Val>19809</Val>
+</U32>
+<U32>
+<Name>secondaryFixed</Name>
+<Val>16767452</Val>
+</U32>
+<U32>
+<Name>onSecondaryFixed</Name>
+<Val>3868435</Val>
+</U32>
+<U32>
+<Name>secondaryFixedDim</Name>
+<Val>16757434</Val>
+</U32>
+<U32>
+<Name>onSecondaryFixedVariant</Name>
+<Val>7484220</Val>
+</U32>
+<U32>
+<Name>tertiaryFixed</Name>
+<Val>14083071</Val>
+</U32>
+<U32>
+<Name>onTertiaryFixed</Name>
+<Val>6974</Val>
+</U32>
+<U32>
+<Name>tertiaryFixedDim</Name>
+<Val>11192319</Val>
+</U32>
+<U32>
+<Name>onTertiaryFixedVariant</Name>
+<Val>2574199</Val>
+</U32>
+<U32>
+<Name>surfaceDim</Name>
+<Val>14080990</Val>
+</U32>
+<U32>
+<Name>surfaceBright</Name>
+<Val>16120573</Val>
+</U32>
+<U32>
+<Name>surfaceContainerLowest</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>surfaceContainerLow</Name>
+<Val>15791351</Val>
+</U32>
+<U32>
+<Name>surfaceContainer</Name>
+<Val>15396850</Val>
+</U32>
+<U32>
+<Name>surfaceContainerHigh</Name>
+<Val>15002092</Val>
+</U32>
+<U32>
+<Name>surfaceContainerHighest</Name>
+<Val>14607334</Val>
+</U32>
+<String>
+<Name>CSS variable List</Name>
+<Val>					root.style.setProperty('--primary','#08677F');
+					root.style.setProperty('--surfaceTint','#08677F');
+					root.style.setProperty('--onPrimary','#FFFFFF');
+					root.style.setProperty('--primaryContainer','#B7EAFF');
+					root.style.setProperty('--onPrimaryContainer','#004D61');
+					root.style.setProperty('--secondary','#8F4952');
+					root.style.setProperty('--onSecondary','#FFFFFF');
+					root.style.setProperty('--secondaryContainer','#FFD9DC');
+					root.style.setProperty('--onSecondaryContainer','#72333C');
+					root.style.setProperty('--tertiary','#415F91');
+					root.style.setProperty('--onTertiary','#FFFFFF');
+					root.style.setProperty('--tertiaryContainer','#D6E3FF');
+					root.style.setProperty('--onTertiaryContainer','#274777');
+					root.style.setProperty('--error','#BA1A1A');
+					root.style.setProperty('--onError','#FFFFFF');
+					root.style.setProperty('--errorContainer','#FFDAD6');
+					root.style.setProperty('--onErrorContainer','#93000A');
+					root.style.setProperty('--background','#F5FAFD');
+					root.style.setProperty('--onBackground','#171C1F');
+					root.style.setProperty('--surface','#F5FAFD');
+					root.style.setProperty('--onSurface','#171C1F');
+					root.style.setProperty('--surfaceVariant','#DBE4E8');
+					root.style.setProperty('--onSurfaceVariant','#40484C');
+					root.style.setProperty('--outline','#70787C');
+					root.style.setProperty('--outlineVariant','#BFC8CC');
+					root.style.setProperty('--shadow','#000000');
+					root.style.setProperty('--scrim','#000000');
+					root.style.setProperty('--inverseSurface','#2C3134');
+					root.style.setProperty('--inverseOnSurface','#EDF1F4');
+					root.style.setProperty('--inversePrimary','#88D1EC');
+					root.style.setProperty('--primaryFixed','#B7EAFF');
+					root.style.setProperty('--onPrimaryFixed','#001F28');
+					root.style.setProperty('--primaryFixedDim','#88D1EC');
+					root.style.setProperty('--onPrimaryFixedVariant','#004D61');
+					root.style.setProperty('--secondaryFixed','#FFD9DC');
+					root.style.setProperty('--onSecondaryFixed','#3B0713');
+					root.style.setProperty('--secondaryFixedDim','#FFB2BA');
+					root.style.setProperty('--onSecondaryFixedVariant','#72333C');
+					root.style.setProperty('--tertiaryFixed','#D6E3FF');
+					root.style.setProperty('--onTertiaryFixed','#001B3E');
+					root.style.setProperty('--tertiaryFixedDim','#AAC7FF');
+					root.style.setProperty('--onTertiaryFixedVariant','#274777');
+					root.style.setProperty('--surfaceDim','#D6DBDE');
+					root.style.setProperty('--surfaceBright','#F5FAFD');
+					root.style.setProperty('--surfaceContainerLowest','#FFFFFF');
+					root.style.setProperty('--surfaceContainerLow','#F0F4F7');
+					root.style.setProperty('--surfaceContainer','#EAEFF2');
+					root.style.setProperty('--surfaceContainerHigh','#E4E9EC');
+					root.style.setProperty('--surfaceContainerHighest','#DEE3E6');</Val>
+</String>
+</Cluster>
+</Object>
+<Object>
+<Name>Material-Scheme.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>TSC Material Theme.lvlib:Material-Scheme.lvclass</Class>
+<Version>3.0.0.0</Version>
+<Cluster>
+<Name>Material-Scheme.lvclass</Name>
+<NumElts>51</NumElts>
+<String>
+<Name>name</Name>
+<Val>light-medium-contrast</Val>
+</String>
+<U32>
+<Name>primary</Name>
+<Val>15435</Val>
+</U32>
+<U32>
+<Name>surfaceTint</Name>
+<Val>550783</Val>
+</U32>
+<U32>
+<Name>onPrimary</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>primaryContainer</Name>
+<Val>2455182</Val>
+</U32>
+<U32>
+<Name>onPrimaryContainer</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>secondary</Name>
+<Val>6103596</Val>
+</U32>
+<U32>
+<Name>onSecondary</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>secondaryContainer</Name>
+<Val>10508385</Val>
+</U32>
+<U32>
+<Name>onSecondaryContainer</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>tertiary</Name>
+<Val>1259109</Val>
+</U32>
+<U32>
+<Name>onTertiary</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>tertiaryContainer</Name>
+<Val>5270944</Val>
+</U32>
+<U32>
+<Name>onTertiaryContainer</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>error</Name>
+<Val>7602182</Val>
+</U32>
+<U32>
+<Name>onError</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>errorContainer</Name>
+<Val>13577255</Val>
+</U32>
+<U32>
+<Name>onErrorContainer</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>background</Name>
+<Val>16120573</Val>
+</U32>
+<U32>
+<Name>onBackground</Name>
+<Val>1514527</Val>
+</U32>
+<U32>
+<Name>surface</Name>
+<Val>16120573</Val>
+</U32>
+<U32>
+<Name>onSurface</Name>
+<Val>856596</Val>
+</U32>
+<U32>
+<Name>surfaceVariant</Name>
+<Val>14410984</Val>
+</U32>
+<U32>
+<Name>onSurfaceVariant</Name>
+<Val>3094331</Val>
+</U32>
+<U32>
+<Name>outline</Name>
+<Val>4936791</Val>
+</U32>
+<U32>
+<Name>outlineVariant</Name>
+<Val>6712946</Val>
+</U32>
+<U32>
+<Name>shadow</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>scrim</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>inverseSurface</Name>
+<Val>2896180</Val>
+</U32>
+<U32>
+<Name>inverseOnSurface</Name>
+<Val>15593972</Val>
+</U32>
+<U32>
+<Name>inversePrimary</Name>
+<Val>8966636</Val>
+</U32>
+<U32>
+<Name>primaryFixed</Name>
+<Val>2455182</Val>
+</U32>
+<U32>
+<Name>onPrimaryFixed</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>primaryFixedDim</Name>
+<Val>23923</Val>
+</U32>
+<U32>
+<Name>onPrimaryFixedVariant</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>secondaryFixed</Name>
+<Val>10508385</Val>
+</U32>
+<U32>
+<Name>onSecondaryFixed</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>secondaryFixedDim</Name>
+<Val>8601673</Val>
+</U32>
+<U32>
+<Name>onSecondaryFixedVariant</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>tertiaryFixed</Name>
+<Val>5270944</Val>
+</U32>
+<U32>
+<Name>onTertiaryFixed</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>tertiaryFixedDim</Name>
+<Val>3626374</Val>
+</U32>
+<U32>
+<Name>onTertiaryFixedVariant</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>surfaceDim</Name>
+<Val>12765130</Val>
+</U32>
+<U32>
+<Name>surfaceBright</Name>
+<Val>16120573</Val>
+</U32>
+<U32>
+<Name>surfaceContainerLowest</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>surfaceContainerLow</Name>
+<Val>15791351</Val>
+</U32>
+<U32>
+<Name>surfaceContainer</Name>
+<Val>15002092</Val>
+</U32>
+<U32>
+<Name>surfaceContainerHigh</Name>
+<Val>14278112</Val>
+</U32>
+<U32>
+<Name>surfaceContainerHighest</Name>
+<Val>13488853</Val>
+</U32>
+<String>
+<Name>CSS variable List</Name>
+<Val>					root.style.setProperty('--primary','#003C4B');
+					root.style.setProperty('--surfaceTint','#08677F');
+					root.style.setProperty('--onPrimary','#FFFFFF');
+					root.style.setProperty('--primaryContainer','#25768E');
+					root.style.setProperty('--onPrimaryContainer','#FFFFFF');
+					root.style.setProperty('--secondary','#5D222C');
+					root.style.setProperty('--onSecondary','#FFFFFF');
+					root.style.setProperty('--secondaryContainer','#A05861');
+					root.style.setProperty('--onSecondaryContainer','#FFFFFF');
+					root.style.setProperty('--tertiary','#133665');
+					root.style.setProperty('--onTertiary','#FFFFFF');
+					root.style.setProperty('--tertiaryContainer','#506DA0');
+					root.style.setProperty('--onTertiaryContainer','#FFFFFF');
+					root.style.setProperty('--error','#740006');
+					root.style.setProperty('--onError','#FFFFFF');
+					root.style.setProperty('--errorContainer','#CF2C27');
+					root.style.setProperty('--onErrorContainer','#FFFFFF');
+					root.style.setProperty('--background','#F5FAFD');
+					root.style.setProperty('--onBackground','#171C1F');
+					root.style.setProperty('--surface','#F5FAFD');
+					root.style.setProperty('--onSurface','#0D1214');
+					root.style.setProperty('--surfaceVariant','#DBE4E8');
+					root.style.setProperty('--onSurfaceVariant','#2F373B');
+					root.style.setProperty('--outline','#4B5457');
+					root.style.setProperty('--outlineVariant','#666E72');
+					root.style.setProperty('--shadow','#000000');
+					root.style.setProperty('--scrim','#000000');
+					root.style.setProperty('--inverseSurface','#2C3134');
+					root.style.setProperty('--inverseOnSurface','#EDF1F4');
+					root.style.setProperty('--inversePrimary','#88D1EC');
+					root.style.setProperty('--primaryFixed','#25768E');
+					root.style.setProperty('--onPrimaryFixed','#FFFFFF');
+					root.style.setProperty('--primaryFixedDim','#005D73');
+					root.style.setProperty('--onPrimaryFixedVariant','#FFFFFF');
+					root.style.setProperty('--secondaryFixed','#A05861');
+					root.style.setProperty('--onSecondaryFixed','#FFFFFF');
+					root.style.setProperty('--secondaryFixedDim','#834049');
+					root.style.setProperty('--onSecondaryFixedVariant','#FFFFFF');
+					root.style.setProperty('--tertiaryFixed','#506DA0');
+					root.style.setProperty('--onTertiaryFixed','#FFFFFF');
+					root.style.setProperty('--tertiaryFixedDim','#375586');
+					root.style.setProperty('--onTertiaryFixedVariant','#FFFFFF');
+					root.style.setProperty('--surfaceDim','#C2C7CA');
+					root.style.setProperty('--surfaceBright','#F5FAFD');
+					root.style.setProperty('--surfaceContainerLowest','#FFFFFF');
+					root.style.setProperty('--surfaceContainerLow','#F0F4F7');
+					root.style.setProperty('--surfaceContainer','#E4E9EC');
+					root.style.setProperty('--surfaceContainerHigh','#D9DDE0');
+					root.style.setProperty('--surfaceContainerHighest','#CDD2D5');</Val>
+</String>
+</Cluster>
+</Object>
+<Object>
+<Name>Material-Scheme.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>TSC Material Theme.lvlib:Material-Scheme.lvclass</Class>
+<Version>3.0.0.0</Version>
+<Cluster>
+<Name>Material-Scheme.lvclass</Name>
+<NumElts>51</NumElts>
+<String>
+<Name>name</Name>
+<Val>light-high-contrast</Val>
+</String>
+<U32>
+<Name>primary</Name>
+<Val>12606</Val>
+</U32>
+<U32>
+<Name>surfaceTint</Name>
+<Val>550783</Val>
+</U32>
+<U32>
+<Name>onPrimary</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>primaryContainer</Name>
+<Val>20580</Val>
+</U32>
+<U32>
+<Name>onPrimaryContainer</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>secondary</Name>
+<Val>5314594</Val>
+</U32>
+<U32>
+<Name>onSecondary</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>secondaryContainer</Name>
+<Val>7681342</Val>
+</U32>
+<U32>
+<Name>onSecondaryContainer</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>tertiary</Name>
+<Val>207707</Val>
+</U32>
+<U32>
+<Name>onTertiary</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>tertiaryContainer</Name>
+<Val>2771322</Val>
+</U32>
+<U32>
+<Name>onTertiaryContainer</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>error</Name>
+<Val>6291460</Val>
+</U32>
+<U32>
+<Name>onError</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>errorContainer</Name>
+<Val>9961482</Val>
+</U32>
+<U32>
+<Name>onErrorContainer</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>background</Name>
+<Val>16120573</Val>
+</U32>
+<U32>
+<Name>onBackground</Name>
+<Val>1514527</Val>
+</U32>
+<U32>
+<Name>surface</Name>
+<Val>16120573</Val>
+</U32>
+<U32>
+<Name>onSurface</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>surfaceVariant</Name>
+<Val>14410984</Val>
+</U32>
+<U32>
+<Name>onSurfaceVariant</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>outline</Name>
+<Val>2436401</Val>
+</U32>
+<U32>
+<Name>outlineVariant</Name>
+<Val>4344398</Val>
+</U32>
+<U32>
+<Name>shadow</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>scrim</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>inverseSurface</Name>
+<Val>2896180</Val>
+</U32>
+<U32>
+<Name>inverseOnSurface</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>inversePrimary</Name>
+<Val>8966636</Val>
+</U32>
+<U32>
+<Name>primaryFixed</Name>
+<Val>20580</Val>
+</U32>
+<U32>
+<Name>onPrimaryFixed</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>primaryFixedDim</Name>
+<Val>14406</Val>
+</U32>
+<U32>
+<Name>onPrimaryFixedVariant</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>secondaryFixed</Name>
+<Val>7681342</Val>
+</U32>
+<U32>
+<Name>onSecondaryFixed</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>secondaryFixedDim</Name>
+<Val>5840680</Val>
+</U32>
+<U32>
+<Name>onSecondaryFixedVariant</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>tertiaryFixed</Name>
+<Val>2771322</Val>
+</U32>
+<U32>
+<Name>onTertiaryFixed</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>tertiaryFixedDim</Name>
+<Val>930402</Val>
+</U32>
+<U32>
+<Name>onTertiaryFixedVariant</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>surfaceDim</Name>
+<Val>11844028</Val>
+</U32>
+<U32>
+<Name>surfaceBright</Name>
+<Val>16120573</Val>
+</U32>
+<U32>
+<Name>surfaceContainerLowest</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>surfaceContainerLow</Name>
+<Val>15593972</Val>
+</U32>
+<U32>
+<Name>surfaceContainer</Name>
+<Val>14607334</Val>
+</U32>
+<U32>
+<Name>surfaceContainerHigh</Name>
+<Val>13686232</Val>
+</U32>
+<U32>
+<Name>surfaceContainerHighest</Name>
+<Val>12765130</Val>
+</U32>
+<String>
+<Name>CSS variable List</Name>
+<Val>					root.style.setProperty('--primary','#00313E');
+					root.style.setProperty('--surfaceTint','#08677F');
+					root.style.setProperty('--onPrimary','#FFFFFF');
+					root.style.setProperty('--primaryContainer','#005064');
+					root.style.setProperty('--onPrimaryContainer','#FFFFFF');
+					root.style.setProperty('--secondary','#511822');
+					root.style.setProperty('--onSecondary','#FFFFFF');
+					root.style.setProperty('--secondaryContainer','#75353E');
+					root.style.setProperty('--onSecondaryContainer','#FFFFFF');
+					root.style.setProperty('--tertiary','#032B5B');
+					root.style.setProperty('--onTertiary','#FFFFFF');
+					root.style.setProperty('--tertiaryContainer','#2A497A');
+					root.style.setProperty('--onTertiaryContainer','#FFFFFF');
+					root.style.setProperty('--error','#600004');
+					root.style.setProperty('--onError','#FFFFFF');
+					root.style.setProperty('--errorContainer','#98000A');
+					root.style.setProperty('--onErrorContainer','#FFFFFF');
+					root.style.setProperty('--background','#F5FAFD');
+					root.style.setProperty('--onBackground','#171C1F');
+					root.style.setProperty('--surface','#F5FAFD');
+					root.style.setProperty('--onSurface','#000000');
+					root.style.setProperty('--surfaceVariant','#DBE4E8');
+					root.style.setProperty('--onSurfaceVariant','#000000');
+					root.style.setProperty('--outline','#252D31');
+					root.style.setProperty('--outlineVariant','#424A4E');
+					root.style.setProperty('--shadow','#000000');
+					root.style.setProperty('--scrim','#000000');
+					root.style.setProperty('--inverseSurface','#2C3134');
+					root.style.setProperty('--inverseOnSurface','#FFFFFF');
+					root.style.setProperty('--inversePrimary','#88D1EC');
+					root.style.setProperty('--primaryFixed','#005064');
+					root.style.setProperty('--onPrimaryFixed','#FFFFFF');
+					root.style.setProperty('--primaryFixedDim','#003846');
+					root.style.setProperty('--onPrimaryFixedVariant','#FFFFFF');
+					root.style.setProperty('--secondaryFixed','#75353E');
+					root.style.setProperty('--onSecondaryFixed','#FFFFFF');
+					root.style.setProperty('--secondaryFixedDim','#591F28');
+					root.style.setProperty('--onSecondaryFixedVariant','#FFFFFF');
+					root.style.setProperty('--tertiaryFixed','#2A497A');
+					root.style.setProperty('--onTertiaryFixed','#FFFFFF');
+					root.style.setProperty('--tertiaryFixedDim','#0E3262');
+					root.style.setProperty('--onTertiaryFixedVariant','#FFFFFF');
+					root.style.setProperty('--surfaceDim','#B4B9BC');
+					root.style.setProperty('--surfaceBright','#F5FAFD');
+					root.style.setProperty('--surfaceContainerLowest','#FFFFFF');
+					root.style.setProperty('--surfaceContainerLow','#EDF1F4');
+					root.style.setProperty('--surfaceContainer','#DEE3E6');
+					root.style.setProperty('--surfaceContainerHigh','#D0D5D8');
+					root.style.setProperty('--surfaceContainerHighest','#C2C7CA');</Val>
+</String>
+</Cluster>
+</Object>
+<Object>
+<Name>Material-Scheme.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>TSC Material Theme.lvlib:Material-Scheme.lvclass</Class>
+<Version>3.0.0.0</Version>
+<Cluster>
+<Name>Material-Scheme.lvclass</Name>
+<NumElts>51</NumElts>
+<String>
+<Name>name</Name>
+<Val>dark</Val>
+</String>
+<U32>
+<Name>primary</Name>
+<Val>8966636</Val>
+</U32>
+<U32>
+<Name>surfaceTint</Name>
+<Val>8966636</Val>
+</U32>
+<U32>
+<Name>onPrimary</Name>
+<Val>13636</Val>
+</U32>
+<U32>
+<Name>primaryContainer</Name>
+<Val>19809</Val>
+</U32>
+<U32>
+<Name>onPrimaryContainer</Name>
+<Val>12053247</Val>
+</U32>
+<U32>
+<Name>secondary</Name>
+<Val>16757434</Val>
+</U32>
+<U32>
+<Name>onSecondary</Name>
+<Val>5643558</Val>
+</U32>
+<U32>
+<Name>secondaryContainer</Name>
+<Val>7484220</Val>
+</U32>
+<U32>
+<Name>onSecondaryContainer</Name>
+<Val>16767452</Val>
+</U32>
+<U32>
+<Name>tertiary</Name>
+<Val>11192319</Val>
+</U32>
+<U32>
+<Name>onTertiary</Name>
+<Val>667743</Val>
+</U32>
+<U32>
+<Name>tertiaryContainer</Name>
+<Val>2574199</Val>
+</U32>
+<U32>
+<Name>onTertiaryContainer</Name>
+<Val>14083071</Val>
+</U32>
+<U32>
+<Name>error</Name>
+<Val>16757931</Val>
+</U32>
+<U32>
+<Name>onError</Name>
+<Val>6881285</Val>
+</U32>
+<U32>
+<Name>errorContainer</Name>
+<Val>9633802</Val>
+</U32>
+<U32>
+<Name>onErrorContainer</Name>
+<Val>16767702</Val>
+</U32>
+<U32>
+<Name>background</Name>
+<Val>988182</Val>
+</U32>
+<U32>
+<Name>onBackground</Name>
+<Val>14607334</Val>
+</U32>
+<U32>
+<Name>surface</Name>
+<Val>988182</Val>
+</U32>
+<U32>
+<Name>onSurface</Name>
+<Val>14607334</Val>
+</U32>
+<U32>
+<Name>surfaceVariant</Name>
+<Val>4212812</Val>
+</U32>
+<U32>
+<Name>onSurfaceVariant</Name>
+<Val>12568780</Val>
+</U32>
+<U32>
+<Name>outline</Name>
+<Val>9081494</Val>
+</U32>
+<U32>
+<Name>outlineVariant</Name>
+<Val>4212812</Val>
+</U32>
+<U32>
+<Name>shadow</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>scrim</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>inverseSurface</Name>
+<Val>14607334</Val>
+</U32>
+<U32>
+<Name>inverseOnSurface</Name>
+<Val>2896180</Val>
+</U32>
+<U32>
+<Name>inversePrimary</Name>
+<Val>550783</Val>
+</U32>
+<U32>
+<Name>primaryFixed</Name>
+<Val>12053247</Val>
+</U32>
+<U32>
+<Name>onPrimaryFixed</Name>
+<Val>7976</Val>
+</U32>
+<U32>
+<Name>primaryFixedDim</Name>
+<Val>8966636</Val>
+</U32>
+<U32>
+<Name>onPrimaryFixedVariant</Name>
+<Val>19809</Val>
+</U32>
+<U32>
+<Name>secondaryFixed</Name>
+<Val>16767452</Val>
+</U32>
+<U32>
+<Name>onSecondaryFixed</Name>
+<Val>3868435</Val>
+</U32>
+<U32>
+<Name>secondaryFixedDim</Name>
+<Val>16757434</Val>
+</U32>
+<U32>
+<Name>onSecondaryFixedVariant</Name>
+<Val>7484220</Val>
+</U32>
+<U32>
+<Name>tertiaryFixed</Name>
+<Val>14083071</Val>
+</U32>
+<U32>
+<Name>onTertiaryFixed</Name>
+<Val>6974</Val>
+</U32>
+<U32>
+<Name>tertiaryFixedDim</Name>
+<Val>11192319</Val>
+</U32>
+<U32>
+<Name>onTertiaryFixedVariant</Name>
+<Val>2574199</Val>
+</U32>
+<U32>
+<Name>surfaceDim</Name>
+<Val>988182</Val>
+</U32>
+<U32>
+<Name>surfaceBright</Name>
+<Val>3488316</Val>
+</U32>
+<U32>
+<Name>surfaceContainerLowest</Name>
+<Val>659217</Val>
+</U32>
+<U32>
+<Name>surfaceContainerLow</Name>
+<Val>1514527</Val>
+</U32>
+<U32>
+<Name>surfaceContainer</Name>
+<Val>1777699</Val>
+</U32>
+<U32>
+<Name>surfaceContainerHigh</Name>
+<Val>2435885</Val>
+</U32>
+<U32>
+<Name>surfaceContainerHighest</Name>
+<Val>3159608</Val>
+</U32>
+<String>
+<Name>CSS variable List</Name>
+<Val>					root.style.setProperty('--primary','#88D1EC');
+					root.style.setProperty('--surfaceTint','#88D1EC');
+					root.style.setProperty('--onPrimary','#003544');
+					root.style.setProperty('--primaryContainer','#004D61');
+					root.style.setProperty('--onPrimaryContainer','#B7EAFF');
+					root.style.setProperty('--secondary','#FFB2BA');
+					root.style.setProperty('--onSecondary','#561D26');
+					root.style.setProperty('--secondaryContainer','#72333C');
+					root.style.setProperty('--onSecondaryContainer','#FFD9DC');
+					root.style.setProperty('--tertiary','#AAC7FF');
+					root.style.setProperty('--onTertiary','#0A305F');
+					root.style.setProperty('--tertiaryContainer','#274777');
+					root.style.setProperty('--onTertiaryContainer','#D6E3FF');
+					root.style.setProperty('--error','#FFB4AB');
+					root.style.setProperty('--onError','#690005');
+					root.style.setProperty('--errorContainer','#93000A');
+					root.style.setProperty('--onErrorContainer','#FFDAD6');
+					root.style.setProperty('--background','#0F1416');
+					root.style.setProperty('--onBackground','#DEE3E6');
+					root.style.setProperty('--surface','#0F1416');
+					root.style.setProperty('--onSurface','#DEE3E6');
+					root.style.setProperty('--surfaceVariant','#40484C');
+					root.style.setProperty('--onSurfaceVariant','#BFC8CC');
+					root.style.setProperty('--outline','#8A9296');
+					root.style.setProperty('--outlineVariant','#40484C');
+					root.style.setProperty('--shadow','#000000');
+					root.style.setProperty('--scrim','#000000');
+					root.style.setProperty('--inverseSurface','#DEE3E6');
+					root.style.setProperty('--inverseOnSurface','#2C3134');
+					root.style.setProperty('--inversePrimary','#08677F');
+					root.style.setProperty('--primaryFixed','#B7EAFF');
+					root.style.setProperty('--onPrimaryFixed','#001F28');
+					root.style.setProperty('--primaryFixedDim','#88D1EC');
+					root.style.setProperty('--onPrimaryFixedVariant','#004D61');
+					root.style.setProperty('--secondaryFixed','#FFD9DC');
+					root.style.setProperty('--onSecondaryFixed','#3B0713');
+					root.style.setProperty('--secondaryFixedDim','#FFB2BA');
+					root.style.setProperty('--onSecondaryFixedVariant','#72333C');
+					root.style.setProperty('--tertiaryFixed','#D6E3FF');
+					root.style.setProperty('--onTertiaryFixed','#001B3E');
+					root.style.setProperty('--tertiaryFixedDim','#AAC7FF');
+					root.style.setProperty('--onTertiaryFixedVariant','#274777');
+					root.style.setProperty('--surfaceDim','#0F1416');
+					root.style.setProperty('--surfaceBright','#353A3C');
+					root.style.setProperty('--surfaceContainerLowest','#0A0F11');
+					root.style.setProperty('--surfaceContainerLow','#171C1F');
+					root.style.setProperty('--surfaceContainer','#1B2023');
+					root.style.setProperty('--surfaceContainerHigh','#252B2D');
+					root.style.setProperty('--surfaceContainerHighest','#303638');</Val>
+</String>
+</Cluster>
+</Object>
+<Object>
+<Name>Material-Scheme.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>TSC Material Theme.lvlib:Material-Scheme.lvclass</Class>
+<Version>3.0.0.0</Version>
+<Cluster>
+<Name>Material-Scheme.lvclass</Name>
+<NumElts>51</NumElts>
+<String>
+<Name>name</Name>
+<Val>dark-medium-contrast</Val>
+</String>
+<U32>
+<Name>primary</Name>
+<Val>10872575</Val>
+</U32>
+<U32>
+<Name>surfaceTint</Name>
+<Val>8966636</Val>
+</U32>
+<U32>
+<Name>onPrimary</Name>
+<Val>10805</Val>
+</U32>
+<U32>
+<Name>primaryContainer</Name>
+<Val>5282484</Val>
+</U32>
+<U32>
+<Name>onPrimaryContainer</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>secondary</Name>
+<Val>16765396</Val>
+</U32>
+<U32>
+<Name>onSecondary</Name>
+<Val>4723228</Val>
+</U32>
+<U32>
+<Name>secondaryContainer</Name>
+<Val>13269635</Val>
+</U32>
+<U32>
+<Name>onSecondaryContainer</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>tertiary</Name>
+<Val>13491711</Val>
+</U32>
+<U32>
+<Name>onTertiary</Name>
+<Val>9552</Val>
+</U32>
+<U32>
+<Name>tertiaryContainer</Name>
+<Val>7639494</Val>
+</U32>
+<U32>
+<Name>onTertiaryContainer</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>error</Name>
+<Val>16765644</Val>
+</U32>
+<U32>
+<Name>onError</Name>
+<Val>5505027</Val>
+</U32>
+<U32>
+<Name>errorContainer</Name>
+<Val>16733257</Val>
+</U32>
+<U32>
+<Name>onErrorContainer</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>background</Name>
+<Val>988182</Val>
+</U32>
+<U32>
+<Name>onBackground</Name>
+<Val>14607334</Val>
+</U32>
+<U32>
+<Name>surface</Name>
+<Val>988182</Val>
+</U32>
+<U32>
+<Name>onSurface</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>surfaceVariant</Name>
+<Val>4212812</Val>
+</U32>
+<U32>
+<Name>onSurfaceVariant</Name>
+<Val>14016226</Val>
+</U32>
+<U32>
+<Name>outline</Name>
+<Val>11252663</Val>
+</U32>
+<U32>
+<Name>outlineVariant</Name>
+<Val>9015958</Val>
+</U32>
+<U32>
+<Name>shadow</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>scrim</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>inverseSurface</Name>
+<Val>14607334</Val>
+</U32>
+<U32>
+<Name>inverseOnSurface</Name>
+<Val>2435885</Val>
+</U32>
+<U32>
+<Name>inversePrimary</Name>
+<Val>20322</Val>
+</U32>
+<U32>
+<Name>primaryFixed</Name>
+<Val>12053247</Val>
+</U32>
+<U32>
+<Name>onPrimaryFixed</Name>
+<Val>5147</Val>
+</U32>
+<U32>
+<Name>primaryFixedDim</Name>
+<Val>8966636</Val>
+</U32>
+<U32>
+<Name>onPrimaryFixedVariant</Name>
+<Val>15435</Val>
+</U32>
+<U32>
+<Name>secondaryFixed</Name>
+<Val>16767452</Val>
+</U32>
+<U32>
+<Name>onSecondaryFixed</Name>
+<Val>2883593</Val>
+</U32>
+<U32>
+<Name>secondaryFixedDim</Name>
+<Val>16757434</Val>
+</U32>
+<U32>
+<Name>onSecondaryFixedVariant</Name>
+<Val>6103596</Val>
+</U32>
+<U32>
+<Name>tertiaryFixed</Name>
+<Val>14083071</Val>
+</U32>
+<U32>
+<Name>onTertiaryFixed</Name>
+<Val>4395</Val>
+</U32>
+<U32>
+<Name>tertiaryFixedDim</Name>
+<Val>11192319</Val>
+</U32>
+<U32>
+<Name>onTertiaryFixedVariant</Name>
+<Val>1259109</Val>
+</U32>
+<U32>
+<Name>surfaceDim</Name>
+<Val>988182</Val>
+</U32>
+<U32>
+<Name>surfaceBright</Name>
+<Val>4212040</Val>
+</U32>
+<U32>
+<Name>surfaceContainerLowest</Name>
+<Val>264202</Val>
+</U32>
+<U32>
+<Name>surfaceContainerLow</Name>
+<Val>1646113</Val>
+</U32>
+<U32>
+<Name>surfaceContainer</Name>
+<Val>2304299</Val>
+</U32>
+<U32>
+<Name>surfaceContainerHigh</Name>
+<Val>3027766</Val>
+</U32>
+<U32>
+<Name>surfaceContainerHighest</Name>
+<Val>3751489</Val>
+</U32>
+<String>
+<Name>CSS variable List</Name>
+<Val>					root.style.setProperty('--primary','#A5E6FF');
+					root.style.setProperty('--surfaceTint','#88D1EC');
+					root.style.setProperty('--onPrimary','#002A35');
+					root.style.setProperty('--primaryContainer','#509AB4');
+					root.style.setProperty('--onPrimaryContainer','#000000');
+					root.style.setProperty('--secondary','#FFD1D4');
+					root.style.setProperty('--onSecondary','#48121C');
+					root.style.setProperty('--secondaryContainer','#CA7A83');
+					root.style.setProperty('--onSecondaryContainer','#000000');
+					root.style.setProperty('--tertiary','#CDDDFF');
+					root.style.setProperty('--onTertiary','#002550');
+					root.style.setProperty('--tertiaryContainer','#7491C6');
+					root.style.setProperty('--onTertiaryContainer','#000000');
+					root.style.setProperty('--error','#FFD2CC');
+					root.style.setProperty('--onError','#540003');
+					root.style.setProperty('--errorContainer','#FF5449');
+					root.style.setProperty('--onErrorContainer','#000000');
+					root.style.setProperty('--background','#0F1416');
+					root.style.setProperty('--onBackground','#DEE3E6');
+					root.style.setProperty('--surface','#0F1416');
+					root.style.setProperty('--onSurface','#FFFFFF');
+					root.style.setProperty('--surfaceVariant','#40484C');
+					root.style.setProperty('--onSurfaceVariant','#D5DEE2');
+					root.style.setProperty('--outline','#ABB3B7');
+					root.style.setProperty('--outlineVariant','#899296');
+					root.style.setProperty('--shadow','#000000');
+					root.style.setProperty('--scrim','#000000');
+					root.style.setProperty('--inverseSurface','#DEE3E6');
+					root.style.setProperty('--inverseOnSurface','#252B2D');
+					root.style.setProperty('--inversePrimary','#004F62');
+					root.style.setProperty('--primaryFixed','#B7EAFF');
+					root.style.setProperty('--onPrimaryFixed','#00141B');
+					root.style.setProperty('--primaryFixedDim','#88D1EC');
+					root.style.setProperty('--onPrimaryFixedVariant','#003C4B');
+					root.style.setProperty('--secondaryFixed','#FFD9DC');
+					root.style.setProperty('--onSecondaryFixed','#2C0009');
+					root.style.setProperty('--secondaryFixedDim','#FFB2BA');
+					root.style.setProperty('--onSecondaryFixedVariant','#5D222C');
+					root.style.setProperty('--tertiaryFixed','#D6E3FF');
+					root.style.setProperty('--onTertiaryFixed','#00112B');
+					root.style.setProperty('--tertiaryFixedDim','#AAC7FF');
+					root.style.setProperty('--onTertiaryFixedVariant','#133665');
+					root.style.setProperty('--surfaceDim','#0F1416');
+					root.style.setProperty('--surfaceBright','#404548');
+					root.style.setProperty('--surfaceContainerLowest','#04080A');
+					root.style.setProperty('--surfaceContainerLow','#191E21');
+					root.style.setProperty('--surfaceContainer','#23292B');
+					root.style.setProperty('--surfaceContainerHigh','#2E3336');
+					root.style.setProperty('--surfaceContainerHighest','#393E41');</Val>
+</String>
+</Cluster>
+</Object>
+<Object>
+<Name>Material-Scheme.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>TSC Material Theme.lvlib:Material-Scheme.lvclass</Class>
+<Version>3.0.0.0</Version>
+<Cluster>
+<Name>Material-Scheme.lvclass</Name>
+<NumElts>51</NumElts>
+<String>
+<Name>name</Name>
+<Val>dark-high-contrast</Val>
+</String>
+<U32>
+<Name>primary</Name>
+<Val>14415103</Val>
+</U32>
+<U32>
+<Name>surfaceTint</Name>
+<Val>8966636</Val>
+</U32>
+<U32>
+<Name>onPrimary</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>primaryContainer</Name>
+<Val>8703464</Val>
+</U32>
+<U32>
+<Name>onPrimaryContainer</Name>
+<Val>3347</Val>
+</U32>
+<U32>
+<Name>secondary</Name>
+<Val>16772076</Val>
+</U32>
+<U32>
+<Name>onSecondary</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>secondaryContainer</Name>
+<Val>16755893</Val>
+</U32>
+<U32>
+<Name>onSecondaryContainer</Name>
+<Val>2162693</Val>
+</U32>
+<U32>
+<Name>tertiary</Name>
+<Val>15462655</Val>
+</U32>
+<U32>
+<Name>onTertiary</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>tertiaryContainer</Name>
+<Val>10929148</Val>
+</U32>
+<U32>
+<Name>onTertiaryContainer</Name>
+<Val>2848</Val>
+</U32>
+<U32>
+<Name>error</Name>
+<Val>16772329</Val>
+</U32>
+<U32>
+<Name>onError</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>errorContainer</Name>
+<Val>16756388</Val>
+</U32>
+<U32>
+<Name>onErrorContainer</Name>
+<Val>2228225</Val>
+</U32>
+<U32>
+<Name>background</Name>
+<Val>988182</Val>
+</U32>
+<U32>
+<Name>onBackground</Name>
+<Val>14607334</Val>
+</U32>
+<U32>
+<Name>surface</Name>
+<Val>988182</Val>
+</U32>
+<U32>
+<Name>onSurface</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>surfaceVariant</Name>
+<Val>4212812</Val>
+</U32>
+<U32>
+<Name>onSurfaceVariant</Name>
+<Val>16777215</Val>
+</U32>
+<U32>
+<Name>outline</Name>
+<Val>15331830</Val>
+</U32>
+<U32>
+<Name>outlineVariant</Name>
+<Val>12371144</Val>
+</U32>
+<U32>
+<Name>shadow</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>scrim</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>inverseSurface</Name>
+<Val>14607334</Val>
+</U32>
+<U32>
+<Name>inverseOnSurface</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>inversePrimary</Name>
+<Val>20322</Val>
+</U32>
+<U32>
+<Name>primaryFixed</Name>
+<Val>12053247</Val>
+</U32>
+<U32>
+<Name>onPrimaryFixed</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>primaryFixedDim</Name>
+<Val>8966636</Val>
+</U32>
+<U32>
+<Name>onPrimaryFixedVariant</Name>
+<Val>5147</Val>
+</U32>
+<U32>
+<Name>secondaryFixed</Name>
+<Val>16767452</Val>
+</U32>
+<U32>
+<Name>onSecondaryFixed</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>secondaryFixedDim</Name>
+<Val>16757434</Val>
+</U32>
+<U32>
+<Name>onSecondaryFixedVariant</Name>
+<Val>2883593</Val>
+</U32>
+<U32>
+<Name>tertiaryFixed</Name>
+<Val>14083071</Val>
+</U32>
+<U32>
+<Name>onTertiaryFixed</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>tertiaryFixedDim</Name>
+<Val>11192319</Val>
+</U32>
+<U32>
+<Name>onTertiaryFixedVariant</Name>
+<Val>4395</Val>
+</U32>
+<U32>
+<Name>surfaceDim</Name>
+<Val>988182</Val>
+</U32>
+<U32>
+<Name>surfaceBright</Name>
+<Val>4936019</Val>
+</U32>
+<U32>
+<Name>surfaceContainerLowest</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>surfaceContainerLow</Name>
+<Val>1777699</Val>
+</U32>
+<U32>
+<Name>surfaceContainer</Name>
+<Val>2896180</Val>
+</U32>
+<U32>
+<Name>surfaceContainerHigh</Name>
+<Val>3619903</Val>
+</U32>
+<U32>
+<Name>surfaceContainerHighest</Name>
+<Val>4343882</Val>
+</U32>
+<String>
+<Name>CSS variable List</Name>
+<Val>					root.style.setProperty('--primary','#DBF4FF');
+					root.style.setProperty('--surfaceTint','#88D1EC');
+					root.style.setProperty('--onPrimary','#000000');
+					root.style.setProperty('--primaryContainer','#84CDE8');
+					root.style.setProperty('--onPrimaryContainer','#000D13');
+					root.style.setProperty('--secondary','#FFEBEC');
+					root.style.setProperty('--onSecondary','#000000');
+					root.style.setProperty('--secondaryContainer','#FFACB5');
+					root.style.setProperty('--onSecondaryContainer','#210005');
+					root.style.setProperty('--tertiary','#EBF0FF');
+					root.style.setProperty('--onTertiary','#000000');
+					root.style.setProperty('--tertiaryContainer','#A6C3FC');
+					root.style.setProperty('--onTertiaryContainer','#000B20');
+					root.style.setProperty('--error','#FFECE9');
+					root.style.setProperty('--onError','#000000');
+					root.style.setProperty('--errorContainer','#FFAEA4');
+					root.style.setProperty('--onErrorContainer','#220001');
+					root.style.setProperty('--background','#0F1416');
+					root.style.setProperty('--onBackground','#DEE3E6');
+					root.style.setProperty('--surface','#0F1416');
+					root.style.setProperty('--onSurface','#FFFFFF');
+					root.style.setProperty('--surfaceVariant','#40484C');
+					root.style.setProperty('--onSurfaceVariant','#FFFFFF');
+					root.style.setProperty('--outline','#E9F1F6');
+					root.style.setProperty('--outlineVariant','#BCC4C8');
+					root.style.setProperty('--shadow','#000000');
+					root.style.setProperty('--scrim','#000000');
+					root.style.setProperty('--inverseSurface','#DEE3E6');
+					root.style.setProperty('--inverseOnSurface','#000000');
+					root.style.setProperty('--inversePrimary','#004F62');
+					root.style.setProperty('--primaryFixed','#B7EAFF');
+					root.style.setProperty('--onPrimaryFixed','#000000');
+					root.style.setProperty('--primaryFixedDim','#88D1EC');
+					root.style.setProperty('--onPrimaryFixedVariant','#00141B');
+					root.style.setProperty('--secondaryFixed','#FFD9DC');
+					root.style.setProperty('--onSecondaryFixed','#000000');
+					root.style.setProperty('--secondaryFixedDim','#FFB2BA');
+					root.style.setProperty('--onSecondaryFixedVariant','#2C0009');
+					root.style.setProperty('--tertiaryFixed','#D6E3FF');
+					root.style.setProperty('--onTertiaryFixed','#000000');
+					root.style.setProperty('--tertiaryFixedDim','#AAC7FF');
+					root.style.setProperty('--onTertiaryFixedVariant','#00112B');
+					root.style.setProperty('--surfaceDim','#0F1416');
+					root.style.setProperty('--surfaceBright','#4B5153');
+					root.style.setProperty('--surfaceContainerLowest','#000000');
+					root.style.setProperty('--surfaceContainerLow','#1B2023');
+					root.style.setProperty('--surfaceContainer','#2C3134');
+					root.style.setProperty('--surfaceContainerHigh','#373C3F');
+					root.style.setProperty('--surfaceContainerHighest','#42484A');</Val>
+</String>
+</Cluster>
+</Object>
+</Array>
+<Array>
+<Name>Palettes</Name>
+<Dimsize>5</Dimsize>
+<Object>
+<Name>Material-Palette.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>TSC Material Theme.lvlib:Material-Palette.lvclass</Class>
+<Version>3.0.0.0</Version>
+<Cluster>
+<Name>Material-Palette.lvclass</Name>
+<NumElts>18</NumElts>
+<U32>
+<Name>0</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>5</Name>
+<Val>4890</Val>
+</U32>
+<U32>
+<Name>10</Name>
+<Val>7976</Val>
+</U32>
+<U32>
+<Name>15</Name>
+<Val>10806</Val>
+</U32>
+<U32>
+<Name>20</Name>
+<Val>13636</Val>
+</U32>
+<U32>
+<Name>25</Name>
+<Val>16722</Val>
+</U32>
+<U32>
+<Name>30</Name>
+<Val>19809</Val>
+</U32>
+<U32>
+<Name>35</Name>
+<Val>23152</Val>
+</U32>
+<U32>
+<Name>40</Name>
+<Val>419711</Val>
+</U32>
+<U32>
+<Name>50</Name>
+<Val>3309721</Val>
+</U32>
+<U32>
+<Name>60</Name>
+<Val>5282484</Val>
+</U32>
+<U32>
+<Name>70</Name>
+<Val>7124432</Val>
+</U32>
+<U32>
+<Name>80</Name>
+<Val>8966636</Val>
+</U32>
+<U32>
+<Name>90</Name>
+<Val>12053247</Val>
+</U32>
+<U32>
+<Name>95</Name>
+<Val>14546175</Val>
+</U32>
+<U32>
+<Name>98</Name>
+<Val>15989759</Val>
+</U32>
+<U32>
+<Name>99</Name>
+<Val>16383487</Val>
+</U32>
+<U32>
+<Name>100</Name>
+<Val>16777215</Val>
+</U32>
+</Cluster>
+</Object>
+<Object>
+<Name>Material-Palette.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>TSC Material Theme.lvlib:Material-Palette.lvclass</Class>
+<Version>3.0.0.0</Version>
+<Cluster>
+<Name>Material-Palette.lvclass</Name>
+<NumElts>18</NumElts>
+<U32>
+<Name>0</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>5</Name>
+<Val>2883593</Val>
+</U32>
+<U32>
+<Name>10</Name>
+<Val>4194320</Val>
+</U32>
+<U32>
+<Name>15</Name>
+<Val>5439512</Val>
+</U32>
+<U32>
+<Name>20</Name>
+<Val>6750239</Val>
+</U32>
+<U32>
+<Name>25</Name>
+<Val>8126504</Val>
+</U32>
+<U32>
+<Name>30</Name>
+<Val>9502768</Val>
+</U32>
+<U32>
+<Name>35</Name>
+<Val>10815545</Val>
+</U32>
+<U32>
+<Name>40</Name>
+<Val>11934788</Val>
+</U32>
+<U32>
+<Name>50</Name>
+<Val>14235995</Val>
+</U32>
+<U32>
+<Name>60</Name>
+<Val>16536435</Val>
+</U32>
+<U32>
+<Name>70</Name>
+<Val>16746391</Val>
+</U32>
+<U32>
+<Name>80</Name>
+<Val>16757434</Val>
+</U32>
+<U32>
+<Name>90</Name>
+<Val>16767452</Val>
+</U32>
+<U32>
+<Name>95</Name>
+<Val>16772333</Val>
+</U32>
+<U32>
+<Name>98</Name>
+<Val>16775415</Val>
+</U32>
+<U32>
+<Name>99</Name>
+<Val>16776191</Val>
+</U32>
+<U32>
+<Name>100</Name>
+<Val>16777215</Val>
+</U32>
+</Cluster>
+</Object>
+<Object>
+<Name>Material-Palette.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>TSC Material Theme.lvlib:Material-Palette.lvclass</Class>
+<Version>3.0.0.0</Version>
+<Cluster>
+<Name>Material-Palette.lvclass</Name>
+<NumElts>18</NumElts>
+<U32>
+<Name>0</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>5</Name>
+<Val>4138</Val>
+</U32>
+<U32>
+<Name>10</Name>
+<Val>6974</Val>
+</U32>
+<U32>
+<Name>15</Name>
+<Val>9553</Val>
+</U32>
+<U32>
+<Name>20</Name>
+<Val>602208</Val>
+</U32>
+<U32>
+<Name>25</Name>
+<Val>1653611</Val>
+</U32>
+<U32>
+<Name>30</Name>
+<Val>2574200</Val>
+</U32>
+<U32>
+<Name>35</Name>
+<Val>3428996</Val>
+</U32>
+<U32>
+<Name>40</Name>
+<Val>4218769</Val>
+</U32>
+<U32>
+<Name>50</Name>
+<Val>5928876</Val>
+</U32>
+<U32>
+<Name>60</Name>
+<Val>7573959</Val>
+</U32>
+<U32>
+<Name>70</Name>
+<Val>9350371</Val>
+</U32>
+<U32>
+<Name>80</Name>
+<Val>11192319</Val>
+</U32>
+<U32>
+<Name>90</Name>
+<Val>14083071</Val>
+</U32>
+<U32>
+<Name>95</Name>
+<Val>15528191</Val>
+</U32>
+<U32>
+<Name>98</Name>
+<Val>16382463</Val>
+</U32>
+<U32>
+<Name>99</Name>
+<Val>16645119</Val>
+</U32>
+<U32>
+<Name>100</Name>
+<Val>16777215</Val>
+</U32>
+</Cluster>
+</Object>
+<Object>
+<Name>Material-Palette.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>TSC Material Theme.lvlib:Material-Palette.lvclass</Class>
+<Version>3.0.0.0</Version>
+<Cluster>
+<Name>Material-Palette.lvclass</Name>
+<NumElts>18</NumElts>
+<U32>
+<Name>0</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>5</Name>
+<Val>987410</Val>
+</U32>
+<U32>
+<Name>10</Name>
+<Val>1711133</Val>
+</U32>
+<U32>
+<Name>15</Name>
+<Val>2369063</Val>
+</U32>
+<U32>
+<Name>20</Name>
+<Val>3092786</Val>
+</U32>
+<U32>
+<Name>25</Name>
+<Val>3816509</Val>
+</U32>
+<U32>
+<Name>30</Name>
+<Val>4540232</Val>
+</U32>
+<U32>
+<Name>35</Name>
+<Val>5329748</Val>
+</U32>
+<U32>
+<Name>40</Name>
+<Val>6119008</Val>
+</U32>
+<U32>
+<Name>50</Name>
+<Val>7763832</Val>
+</U32>
+<U32>
+<Name>60</Name>
+<Val>9474450</Val>
+</U32>
+<U32>
+<Name>70</Name>
+<Val>11185068</Val>
+</U32>
+<U32>
+<Name>80</Name>
+<Val>13027015</Val>
+</U32>
+<U32>
+<Name>90</Name>
+<Val>14869219</Val>
+</U32>
+<U32>
+<Name>95</Name>
+<Val>15856113</Val>
+</U32>
+<U32>
+<Name>98</Name>
+<Val>16382458</Val>
+</U32>
+<U32>
+<Name>99</Name>
+<Val>16579837</Val>
+</U32>
+<U32>
+<Name>100</Name>
+<Val>16777215</Val>
+</U32>
+</Cluster>
+</Object>
+<Object>
+<Name>Material-Palette.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>TSC Material Theme.lvlib:Material-Palette.lvclass</Class>
+<Version>3.0.0.0</Version>
+<Cluster>
+<Name>Material-Palette.lvclass</Name>
+<NumElts>18</NumElts>
+<U32>
+<Name>0</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>5</Name>
+<Val>791060</Val>
+</U32>
+<U32>
+<Name>10</Name>
+<Val>1514527</Val>
+</U32>
+<U32>
+<Name>15</Name>
+<Val>2172713</Val>
+</U32>
+<U32>
+<Name>20</Name>
+<Val>2896180</Val>
+</U32>
+<U32>
+<Name>25</Name>
+<Val>3619903</Val>
+</U32>
+<U32>
+<Name>30</Name>
+<Val>4343882</Val>
+</U32>
+<U32>
+<Name>35</Name>
+<Val>5133142</Val>
+</U32>
+<U32>
+<Name>40</Name>
+<Val>5922658</Val>
+</U32>
+<U32>
+<Name>50</Name>
+<Val>7501947</Val>
+</U32>
+<U32>
+<Name>60</Name>
+<Val>9212308</Val>
+</U32>
+<U32>
+<Name>70</Name>
+<Val>10988719</Val>
+</U32>
+<U32>
+<Name>80</Name>
+<Val>12765130</Val>
+</U32>
+<U32>
+<Name>90</Name>
+<Val>14607334</Val>
+</U32>
+<U32>
+<Name>95</Name>
+<Val>15593972</Val>
+</U32>
+<U32>
+<Name>98</Name>
+<Val>16120573</Val>
+</U32>
+<U32>
+<Name>99</Name>
+<Val>16383487</Val>
+</U32>
+<U32>
+<Name>100</Name>
+<Val>16777215</Val>
+</U32>
+</Cluster>
+</Object>
+</Array>
+<Path>
+<Name>Theme Path</Name>
+<Val></Val>
+</Path>
+</Cluster>
+</Object>
