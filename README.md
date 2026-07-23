@@ -6,7 +6,12 @@ This repo is a convenient place to keep the code for my 2026 GDevConNA presentat
 
 For this presentation, I am using the `Boiler Controller` Project that is in LabVIEW Core 3. I am starting with what the code looks like when you have created the UI Prototype and I am going to give it a **Glow Up**!
 
+## Before
 <img src="./assets/images/screenshot.png" alt = "Boiler Controller UI Prototype" />
+
+## After
+<img src="./assets/images/screenshot-from-session.png" alt = "Boiler Controller UI Update" />
+*with the GDEVCONNA color scheme!*
 
 ## 🔗 References in the presentation 
 
